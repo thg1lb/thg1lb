@@ -1,6 +1,6 @@
 ## Hi there, I'm Ana 👋
 
-I'm an incoming Electrical and Electronic Engineering Undergraduate student ! 
+### I'm an incoming Electrical and Electronic Engineering Undergraduate student ! 
 
 🔭 My interests are primarily:
 - Embedded Systems
