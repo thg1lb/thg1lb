@@ -10,7 +10,7 @@
 
 
 #### 🌱 Currently Learning:
-- C
+- C/C++
 - Python (Matplotlib, Streamlit)
 
 
