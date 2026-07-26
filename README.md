@@ -1,5 +1,3 @@
-## Hi there, I'm Ana 👋
-
 ### I'm an incoming Electrical and Electronic Engineering Undergraduate student ! 
 
 
