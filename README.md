@@ -1,7 +1,8 @@
+### Hello, I'm thg1lb (a.k.a. Ana)
 ### I'm an incoming Electrical and Electronic Engineering Undergraduate student ! 
 
 
-#### 🔭 My interests are primarily:
+#### 🔭 Interests:
 - Embedded Systems
 - Robotics
 - Medtech
