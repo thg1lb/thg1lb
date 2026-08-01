@@ -14,7 +14,7 @@
 
 
 #### 🚧 Current Projects:
-- Physics and Engineering Simulations (BPhO Computational Challenge)
+- BPhO Computational Challenge 2026 Submission (repo will be made public post-judging)
 - AsthmaVue (https://github.com/thg1lb/asthmavue)
 
 
