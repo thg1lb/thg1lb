@@ -17,8 +17,7 @@ I'm an incoming EEE student @ Queen Mary University of London interested in embe
 
 ### Currently Learning:
 - C/C++
-- Python (Matplotlib, Streamlit)
-- Electronics
+- ZephyrRTOS
 
 ---
 
