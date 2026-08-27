@@ -10,8 +10,8 @@ I'm an incoming EEE student @ Queen Mary University of London interested in embe
 #### ⚛️ **BPhO Computational Challenge 2026 Submission (repo will be made public post-judging)**
 > Python simulations and visualisations for the British Physics Olympiad Computational Challenge (2026).
 
-#### 📚 **Robotics Club Resources (https://github.com/thg1lb/robotics-club-resources)**
-> Teaching materials, lesson plans, and resources that I made for my school's robotics club.
+#### 📚 **TherapySort (https://github.com/thg1lb/therapySortApp)**
+> A desktop therapist search application combining a Unity/C# frontend with a Python Flask and SQLite backend for dynamic filtering of multiple criteria.
 
 ---
 
@@ -23,9 +23,3 @@ I'm an incoming EEE student @ Queen Mary University of London interested in embe
 
 ### 📫 Connect with me!
 - LinkedIn: https://www.linkedin.com/in/ana-f-8811a5353/
-
----
-
-### To be added:
-- TherapySort (Fullstack Desktop Application)
-- Combat-System Mathematical Modelling and Simulation
