@@ -23,3 +23,7 @@ I'm an incoming EEE student @ Queen Mary University of London interested in embe
 
 ### 📫 Connect with me!
 - LinkedIn: https://www.linkedin.com/in/ana-f-8811a5353/
+
+### To be added:
+- TherapySort (Fullstack Desktop Application)
+- Combat-System Mathematical Modelling and Simulation
