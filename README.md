@@ -1,5 +1,5 @@
 ### Hello, I'm Ana (a.k.a. thg1lb) 😄
-I'm an incoming EEE student @ Queen Mary University of London interested in embedded systems, robotics, and medtech!
+I'm a Y1 undergraduate EEE student @ Queen Mary University of London interested in embedded systems, robotics, and medtech!
 
 ---
 
