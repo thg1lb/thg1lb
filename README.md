@@ -22,4 +22,4 @@ I'm a Y1 undergraduate EEE student @ Queen Mary University of London interested 
 ---
 
 ### 📫 Connect with me!
-- LinkedIn: https://www.linkedin.com/in/ana-f-8811a5353/
+- LinkedIn: www.linkedin.com/in/afong3
